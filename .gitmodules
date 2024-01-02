@@ -1,0 +1,3 @@
+[submodule "labdata"]
+	path = labdata
+	url = https://github.com/stitam/labdata
